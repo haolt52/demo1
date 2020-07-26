@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Luu Thien Hao
 Luu tien quyet
+=======
+Luu Thien Hao
+>>>>>>> parent of d0915a3... mmm
